@@ -63,7 +63,7 @@ body {
   .botoes {
     display: flex;
   }
-   .botao:firts-child {
+   .botao: firts-child {
      border-radius: 40px 0 0 0;
    }
    .botao: last-child {
